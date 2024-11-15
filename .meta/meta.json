@@ -14,5 +14,13 @@
     "lastpushDate": "2024-11-15T08:59:04.054Z",
     "gitVersionName": "av",
     "lastCommitUser": "mani "
+  },
+  "cf65e5ec-2fd8-4387-90bf-f36bad35cd3f": {
+    "gitAppName": "test123",
+    "lastCommitMessage": "App test123 created",
+    "gitVersionId": "43c34ce8-f7dd-42e9-abbb-a9d3803e0d98",
+    "lastpushDate": "2024-11-15T10:32:31.967Z",
+    "gitVersionName": "v1",
+    "lastCommitUser": "mani "
   }
 }
